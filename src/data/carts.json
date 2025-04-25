@@ -1,0 +1,79 @@
+[
+  {
+    "id": "cart1",
+    "userId": "u1",
+    "items": [
+      {
+        "productId": "1",
+        "name": "Ballon de football professionnel",
+        "price": 29.99,
+        "quantity": 1,
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/06/12/20/17/soccer-3471402_1280.jpg"
+      },
+      {
+        "productId": "3",
+        "name": "Tapis de yoga antidérapant",
+        "price": 19.99,
+        "quantity": 2,
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/11/24/18/48/yoga-4650150_1280.jpg"
+      }
+    ],
+    "total": 69.97,
+    "createdAt": "2025-03-15T14:30:00Z",
+    "updatedAt": "2025-03-16T10:15:00Z"
+  },
+  {
+    "id": "cart2",
+    "userId": "u2",
+    "items": [
+      {
+        "productId": "2",
+        "name": "Chaussures de running performance",
+        "price": 89.99,
+        "quantity": 1,
+        "imageUrl": "https://unsplash.com/photos/yULwDpdwRZk/download?force=true"
+      }
+    ],
+    "total": 89.99,
+    "createdAt": "2025-03-14T09:45:00Z",
+    "updatedAt": "2025-03-14T09:45:00Z"
+  },
+  {
+    "id": "cart3",
+    "userId": "u3",
+    "items": [
+      {
+        "productId": "4",
+        "name": "Maillot de basketball respirant",
+        "price": 34.99,
+        "quantity": 1,
+        "imageUrl": "https://unsplash.com/photos/R7t1RCmlxU4/download?force=true"
+      },
+      {
+        "productId": "1",
+        "name": "Ballon de football professionnel",
+        "price": 29.99,
+        "quantity": 1,
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/06/12/20/17/soccer-3471402_1280.jpg"
+      },
+      {
+        "productId": "2",
+        "name": "Chaussures de running performance",
+        "price": 89.99,
+        "quantity": 1,
+        "imageUrl": "https://unsplash.com/photos/yULwDpdwRZk/download?force=true"
+      }
+    ],
+    "total": 154.97,
+    "createdAt": "2025-03-10T16:20:00Z",
+    "updatedAt": "2025-03-13T11:30:00Z"
+  },
+  {
+    "id": "cart4",
+    "userId": "u4",
+    "items": [],
+    "total": 0,
+    "createdAt": "2025-03-16T08:10:00Z",
+    "updatedAt": "2025-03-16T08:10:00Z"
+  }
+]

@@ -1,0 +1,89 @@
+[
+    {
+      "id": "1",
+      "name": "Ballon de football professionnel",
+      "description": "Ballon de football officiel conçu pour les matchs professionnels. Excellente durabilité et précision de vol.",
+      "price": 29.99,
+      "category": "Équipement",
+      "sport": "Football",
+      "imageUrl": "/assets/football.jpg",
+      "stock": 45,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "id": "r1",
+          "userId": "u1",
+          "userName": "Thomas D.",
+          "rating": 5,
+          "comment": "Excellent ballon, très bonne qualité.",
+          "date": "2025-02-15T10:30:00Z"
+        },
+        {
+          "id": "r2",
+          "userId": "u2",
+          "userName": "Sophie L.",
+          "rating": 4,
+          "comment": "Bonne tenue dans le temps, je recommande.",
+          "date": "2025-01-27T14:15:00Z"
+        }
+      ],
+      "relatedProducts": ["5", "7", "12"]
+    },
+    {
+      "id": "2",
+      "name": "Chaussures de running performance",
+      "description": "Chaussures de course légères avec amorti optimal pour vos entraînements de longue distance.",
+      "price": 89.99,
+      "category": "Chaussures",
+      "sport": "Running",
+      "imageUrl": "/assets/running-shoes.jpg",
+      "stock": 32,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "id": "r3",
+          "userId": "u3",
+          "userName": "Marc B.",
+          "rating": 5,
+          "comment": "Très confortables, même après 10km.",
+          "date": "2025-03-01T09:45:00Z"
+        }
+      ],
+      "relatedProducts": ["8", "15", "17"]
+    },
+    {
+      "id": "3",
+      "name": "Tapis de yoga antidérapant",
+      "description": "Tapis écologique avec surface antidérapante pour une pratique du yoga en toute sécurité.",
+      "price": 19.99,
+      "category": "Accessoires",
+      "sport": "Fitness",
+      "imageUrl": "/assets/yoga-mat.jpg",
+      "stock": 67,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "id": "r4",
+          "userId": "u4",
+          "userName": "Julie M.",
+          "rating": 5,
+          "comment": "Excellent grip, je ne glisse plus pendant mes postures.",
+          "date": "2025-02-20T16:20:00Z"
+        }
+      ],
+      "relatedProducts": ["6", "14", "19"]
+    },
+    {
+      "id": "4",
+      "name": "Maillot de basketball respirant",
+      "description": "Maillot technique conçu pour évacuer la transpiration et offrir une liberté de mouvement maximale.",
+      "price": 34.99,
+      "category": "Vêtements",
+      "sport": "Basketball",
+      "imageUrl": "/assets/basketball-jersey.jpg",
+      "stock": 28,
+      "rating": 4.3,
+      "reviews": [],
+      "relatedProducts": ["9", "13", "18"]
+    }
+  ]

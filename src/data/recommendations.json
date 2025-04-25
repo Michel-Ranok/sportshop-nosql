@@ -1,0 +1,314 @@
+{
+  "productRecommendations": {
+    "1": [
+      {
+        "productId": "5",
+        "name": "Gants de gardien de but professionnels",
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/04/19/14/20/goalkeeper-gloves-4139624_1280.jpg",
+        "price": 24.99,
+        "score": 0.92
+      },
+      {
+        "productId": "7",
+        "name": "Chaussures de football à crampons",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/12/10/23/04/football-boots-5821608_1280.jpg",
+        "price": 79.99,
+        "score": 0.87
+      },
+      {
+        "productId": "12",
+        "name": "Sac de sport Football",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/08/05/05/24/duffel-7365977_1280.jpg",
+        "price": 39.99,
+        "score": 0.75
+      }
+    ],
+    "2": [
+      {
+        "productId": "8",
+        "name": "Montre GPS running",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/02/12/12/54/polar-a360-2059937_1280.jpg",
+        "price": 129.99,
+        "score": 0.95
+      },
+      {
+        "productId": "15",
+        "name": "T-shirt technique running",
+        "imageUrl": "https://unsplash.com/photos/s_S06Aj9MZ0/download?force=true",
+        "price": 24.99,
+        "score": 0.88
+      },
+      {
+        "productId": "17",
+        "name": "Ceinture porte-bidon running",
+        "imageUrl": "https://unsplash.com/photos/x2Yak4o2UH8/download?force=true",
+        "price": 19.99,
+        "score": 0.82
+      }
+    ],
+    "3": [
+      {
+        "productId": "6",
+        "name": "Bloc de yoga en liège",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/18/21/10/yoga-1916730_1280.jpg",
+        "price": 14.99,
+        "score": 0.91
+      },
+      {
+        "productId": "14",
+        "name": "Sangle de yoga en coton",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/18/21/10/yoga-1916730_1280.jpg",
+        "price": 9.99,
+        "score": 0.85
+      },
+      {
+        "productId": "19",
+        "name": "Legging de yoga haute performance",
+        "imageUrl": "https://unsplash.com/photos/Vv9ZLASXfTo/download?force=true",
+        "price": 39.99,
+        "score": 0.79
+      }
+    ],
+    "4": [
+      {
+        "productId": "9",
+        "name": "Short de basketball",
+        "imageUrl": "https://unsplash.com/photos/R7t1RCmlxU4/download?force=true",
+        "price": 29.99,
+        "score": 0.94
+      },
+      {
+        "productId": "13",
+        "name": "Ballon de basketball intérieur/extérieur",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/07/05/01/basketball-1882582_1280.jpg",
+        "price": 39.99,
+        "score": 0.89
+      },
+      {
+        "productId": "18",
+        "name": "Chaussettes hautes basketball",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/05/03/09/38/shoes-1369015_1280.jpg",
+        "price": 12.99,
+        "score": 0.77
+      }
+    ]
+  },
+  "userRecommendations": {
+    "u1": [
+      {
+        "productId": "7",
+        "name": "Chaussures de football à crampons",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/12/10/23/04/football-boots-5821608_1280.jpg",
+        "price": 79.99,
+        "score": 0.94
+      },
+      {
+        "productId": "12",
+        "name": "Sac de sport Football",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/08/05/05/24/duffel-7365977_1280.jpg",
+        "price": 39.99,
+        "score": 0.88
+      },
+      {
+        "productId": "5",
+        "name": "Gants de gardien de but professionnels",
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/04/19/14/20/goalkeeper-gloves-4139624_1280.jpg",
+        "price": 24.99,
+        "score": 0.76
+      }
+    ],
+    "u2": [
+      {
+        "productId": "15",
+        "name": "T-shirt technique running",
+        "imageUrl": "https://unsplash.com/photos/s_S06Aj9MZ0/download?force=true",
+        "price": 24.99,
+        "score": 0.93
+      },
+      {
+        "productId": "17",
+        "name": "Ceinture porte-bidon running",
+        "imageUrl": "https://unsplash.com/photos/x2Yak4o2UH8/download?force=true",
+        "price": 19.99,
+        "score": 0.87
+      },
+      {
+        "productId": "8",
+        "name": "Montre GPS running",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/02/12/12/54/polar-a360-2059937_1280.jpg",
+        "price": 129.99,
+        "score": 0.82
+      }
+    ],
+    "u3": [
+      {
+        "productId": "9",
+        "name": "Short de basketball",
+        "imageUrl": "https://unsplash.com/photos/R7t1RCmlxU4/download?force=true",
+        "price": 29.99,
+        "score": 0.96
+      },
+      {
+        "productId": "18",
+        "name": "Chaussettes hautes basketball",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/05/03/09/38/shoes-1369015_1280.jpg",
+        "price": 12.99,
+        "score": 0.91
+      },
+      {
+        "productId": "2",
+        "name": "Chaussures de running performance",
+        "imageUrl": "https://unsplash.com/photos/yULwDpdwRZk/download?force=true",
+        "price": 89.99,
+        "score": 0.85
+      }
+    ],
+    "u4": [
+      {
+        "productId": "6",
+        "name": "Bloc de yoga en liège",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/18/21/10/yoga-1916730_1280.jpg",
+        "price": 14.99,
+        "score": 0.95
+      },
+      {
+        "productId": "14",
+        "name": "Sangle de yoga en coton",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/18/21/10/yoga-1916730_1280.jpg",
+        "price": 9.99,
+        "score": 0.90
+      },
+      {
+        "productId": "3",
+        "name": "Tapis de yoga antidérapant",
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/11/24/18/48/yoga-4650150_1280.jpg",
+        "price": 19.99,
+        "score": 0.84
+      }
+    ]
+  },
+  "popularByCategory": {
+    "Équipement": [
+      {
+        "productId": "1",
+        "name": "Ballon de football professionnel",
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/06/12/20/17/soccer-3471402_1280.jpg",
+        "price": 29.99,
+        "score": 0.93
+      },
+      {
+        "productId": "13",
+        "name": "Ballon de basketball intérieur/extérieur",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/07/05/01/basketball-1882582_1280.jpg",
+        "price": 39.99,
+        "score": 0.87
+      }
+    ],
+    "Chaussures": [
+      {
+        "productId": "2",
+        "name": "Chaussures de running performance",
+        "imageUrl": "https://unsplash.com/photos/yULwDpdwRZk/download?force=true",
+        "price": 89.99,
+        "score": 0.94
+      },
+      {
+        "productId": "7",
+        "name": "Chaussures de football à crampons",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/12/10/23/04/football-boots-5821608_1280.jpg",
+        "price": 79.99,
+        "score": 0.89
+      }
+    ],
+    "Vêtements": [
+      {
+        "productId": "4",
+        "name": "Maillot de basketball respirant",
+        "imageUrl": "https://unsplash.com/photos/R7t1RCmlxU4/download?force=true",
+        "price": 34.99,
+        "score": 0.92
+      },
+      {
+        "productId": "15",
+        "name": "T-shirt technique running",
+        "imageUrl": "https://unsplash.com/photos/s_S06Aj9MZ0/download?force=true",
+        "price": 24.99,
+        "score": 0.86
+      }
+    ],
+    "Accessoires": [
+      {
+        "productId": "3",
+        "name": "Tapis de yoga antidérapant",
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/11/24/18/48/yoga-4650150_1280.jpg",
+        "price": 19.99,
+        "score": 0.95
+      },
+      {
+        "productId": "8",
+        "name": "Montre GPS running",
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/02/12/12/54/polar-a360-2059937_1280.jpg",
+        "price": 129.99,
+        "score": 0.90
+      }
+    ]
+  },
+  "frequentlyBoughtTogether": {
+    "1": [
+      {
+        "productId": "5",
+        "name": "Gants de gardien de but professionnels",
+        "imageUrl": "https://cdn.pixabay.com/photo/2019/04/19/14/20/goalkeeper-gloves-4139624_1280.jpg",
+        "price": 24.99
+      },
+      {
+        "productId": "7",
+        "name": "Chaussures de football à crampons",
+        "imageUrl": "https://cdn.pixabay.com/photo/2020/12/10/23/04/football-boots-5821608_1280.jpg",
+        "price": 79.99
+      }
+    ],
+    "2": [
+      {
+        "productId": "15",
+        "name": "T-shirt technique running",
+        "imageUrl": "https://unsplash.com/photos/s_S06Aj9MZ0/download?force=true",
+        "price": 24.99
+      },
+      {
+        "productId": "17",
+        "name": "Ceinture porte-bidon running",
+        "imageUrl": "https://unsplash.com/photos/x2Yak4o2UH8/download?force=true",
+        "price": 19.99
+      }
+    ],
+    "3": [
+      {
+        "productId": "6",
+        "name": "Bloc de yoga en liège",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/18/21/10/yoga-1916730_1280.jpg",
+        "price": 14.99
+      },
+      {
+        "productId": "14",
+        "name": "Sangle de yoga en coton",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/18/21/10/yoga-1916730_1280.jpg",
+        "price": 9.99
+      }
+    ],
+    "4": [
+      {
+        "productId": "9",
+        "name": "Short de basketball",
+        "imageUrl": "https://unsplash.com/photos/R7t1RCmlxU4/download?force=true",
+        "price": 29.99
+      },
+      {
+        "productId": "13",
+        "name": "Ballon de basketball intérieur/extérieur",
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/07/05/01/basketball-1882582_1280.jpg",
+        "price": 39.99
+      }
+    ]
+  }
+}

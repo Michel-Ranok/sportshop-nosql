@@ -1,0 +1,42 @@
+[
+    {
+      "id": "u1",
+      "email": "thomas.dupont@example.com",
+      "firstName": "Thomas",
+      "lastName": "Dupont",
+      "role": "customer",
+      "createdAt": "2024-12-10T09:30:00Z"
+    },
+    {
+      "id": "u2",
+      "email": "sophie.leroy@example.com",
+      "firstName": "Sophie",
+      "lastName": "Leroy",
+      "role": "customer",
+      "createdAt": "2025-01-05T14:20:00Z"
+    },
+    {
+      "id": "u3",
+      "email": "marc.bernard@example.com",
+      "firstName": "Marc",
+      "lastName": "Bernard",
+      "role": "customer",
+      "createdAt": "2024-11-20T11:15:00Z"
+    },
+    {
+      "id": "u4",
+      "email": "julie.martin@example.com",
+      "firstName": "Julie",
+      "lastName": "Martin",
+      "role": "customer",
+      "createdAt": "2025-02-02T16:45:00Z"
+    },
+    {
+      "id": "admin1",
+      "email": "admin@sportshop.com",
+      "firstName": "Admin",
+      "lastName": "User",
+      "role": "admin",
+      "createdAt": "2024-10-01T08:00:00Z"
+    }
+  ]

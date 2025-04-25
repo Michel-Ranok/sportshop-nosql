@@ -1,0 +1,28 @@
+{
+    "productViews": [
+      {"productId": "1", "productName": "Ballon de football professionnel", "views": 245},
+      {"productId": "2", "productName": "Chaussures de running performance", "views": 189},
+      {"productId": "3", "productName": "Tapis de yoga antidérapant", "views": 156},
+      {"productId": "4", "productName": "Maillot de basketball respirant", "views": 132}
+    ],
+    "salesByCategory": [
+      {"category": "Football", "sales": 3250},
+      {"category": "Running", "sales": 2890},
+      {"category": "Fitness", "sales": 2450},
+      {"category": "Basketball", "sales": 1980}
+    ],
+    "userActivity": [
+      {"date": "2025-01-01", "activeUsers": 125},
+      {"date": "2025-01-02", "activeUsers": 132},
+      {"date": "2025-01-03", "activeUsers": 145},
+      {"date": "2025-01-04", "activeUsers": 139},
+      {"date": "2025-01-05", "activeUsers": 152},
+      {"date": "2025-01-06", "activeUsers": 165},
+      {"date": "2025-01-07", "activeUsers": 178}
+    ],
+    "salesByMonth": [
+      {"month": "Janvier", "sales": 12500},
+      {"month": "Février", "sales": 15200},
+      {"month": "Mars", "sales": 13800}
+    ]
+  }
